@@ -20,5 +20,21 @@ class Solution {
             li++;
             ri--;
         }
+   
+   
+    // k = k % nums.length;
+    // int[] res = new int[nums.length];
+    // int x = 0;
+    // for(int i = nums.length  - k; i<nums.length; i++){
+    //     res[x] = nums[i];
+    //     x++;
+    // }
+    // for(int i = 0; i<k-1; i++){
+    //     res[x] = nums[i];
+    //     x++;
+    // }
+    // System.out.println(res[3]);
+    // nums = res;
+    return;
     }
 }
